@@ -65,3 +65,11 @@ If you want to support my work or have any queries, feel free to reach out:
 These notes are compiled from various learning resources, personal notes, and practical experiences. They are meant for educational purposes. Always test SQL queries in a safe environment before running them in production.
 
 **Happy Learning! 🐘💻**
+
+- [Part 1](./part-01/README.md)
+- [Part 2](./part-02/README.md)
+- [Part 3](./part-03/README.md)
+- [Part 4](./part-04/README.md)
+- [Part 5](./part-05/README.md)
+- [Part 6](./part-06/README.md)
+- [Part 7](./part-07/README.md)

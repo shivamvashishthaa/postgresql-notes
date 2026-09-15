@@ -182,3 +182,6 @@ In PostgreSQL, the `pg_hba.conf` (Host-Based Authentication) file controls who c
     - `reject`: Refuses connection.
 
 Note: After editing `pg_hba.conf`, you must reload PostgreSQL (`sudo systemctl reload postgresql`) for changes to take effect.
+
+---
+[< Previous](../README.md) ---- [Next >](../part-02/README.md)
