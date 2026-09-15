@@ -61,6 +61,22 @@ If you want to support my work or have any queries, feel free to reach out:
 
 ---
 
+## 📝 License
+
+This project is open-source and available under the [MIT License](LICENSE.md).
+
+---
+
+### 👨‍💻 Author
+
+**Shivam Vashishtha**
+*   [GitHub](https://github.com/shivamvashishthaa)
+*   [LinkedIn](https://linkedin.com/in/shivamvashishtha1)
+
+
+---
+
+
 ### ⚠️ Disclaimer
 These notes are compiled from various learning resources, personal notes, and practical experiences. They are meant for educational purposes. Always test SQL queries in a safe environment before running them in production.
 
